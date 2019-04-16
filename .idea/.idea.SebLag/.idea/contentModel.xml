@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nick\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_SebLag.-1010737841.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Projects\other\SebLag" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="ConditionalHidePropertyDrawer.cs" t="Include" />
+          <e p="LandmassMapGeneratorEditor.cs" t="Include" />
+          <e p="PlanetEditor.cs" t="Include" />
+        </e>
+        <e p="FauxGravity" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="FauxGravityAttractor.cs" t="Include" />
+            <e p="FauxGravityBody.cs" t="Include" />
+            <e p="FauxGravityFPController.cs" t="Include" />
+            <e p="FauxGravityTPController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="firstPassPlayer" t="Include">
+          <e p="Script" t="Include">
+            <e p="Helper.cs" t="Include" />
+            <e p="TPAnimator.cs" t="Include" />
+            <e p="TPCamera.cs" t="Include" />
+            <e p="TPController.cs" t="Include" />
+            <e p="TPMotor.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Landmass Generator" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="LandmassMeshGenerator.cs" t="Include" />
+            <e p="MapDisplay.cs" t="Include" />
+            <e p="MapGenerator.cs" t="Include" />
+            <e p="Noise.cs" t="Include" />
+            <e p="TextureGenerator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Planets" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="ColorGenerator.cs" t="Include" />
+            <e p="ConditionalHideAttribute.cs" t="Include" />
+            <e p="MinMax.cs" t="Include" />
+            <e p="Noise" t="Include">
+              <e p="INoiseFilter.cs" t="Include" />
+              <e p="Noise.cs" t="Include" />
+              <e p="NoiseFilterFactory.cs" t="Include" />
+              <e p="RigidNoiseFilter.cs" t="Include" />
+              <e p="SimpleNoiseFilter.cs" t="Include" />
+            </e>
+            <e p="Planet.cs" t="Include" />
+            <e p="Settings" t="Include">
+              <e p="ColorSettings.cs" t="Include" />
+              <e p="NoiseSettings.cs" t="Include" />
+              <e p="ShapeSettings.cs" t="Include" />
+            </e>
+            <e p="ShapeGenerator.cs" t="Include" />
+            <e p="TerrainFace.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SebLag.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
